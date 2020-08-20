@@ -16,7 +16,7 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "ethereumjs-testrpc": "^6.0.3",
     "faker": "^4.1.0",
     "node-gyp": "^3.8.0",
